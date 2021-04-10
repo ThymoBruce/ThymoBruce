@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ThymoBruce
+- 👀 I’m interested in web development, photography and videography
+- 🌱 I’m currently learning software development as a student
+- 💞️ I’m looking to collaborate on web development projects focussed around helping people
+- 📫 How to reach me IG: @thymobruce , Email: robenthymo@gmail.com
